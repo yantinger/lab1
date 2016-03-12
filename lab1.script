@@ -1,0 +1,12 @@
+Script started on 2016年03月13日 (週日) 00時00分42秒
+]0;F74042094@2015cpp: ~F74042094@2015cpp:~$ whoamo[Ki;pwd
+F74042094
+/home/F74042094
+]0;F74042094@2015cpp: ~F74042094@2015cpp:~$ git config -l
+user.email=f74042094@gmail.com
+user.name=yantinger
+]0;F74042094@2015cpp: ~F74042094@2015cpp:~$ git clone httpd[Ks://github.com/yanti nger/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74042094@2015cpp: ~F74042094@2015cpp:~$ exit
+
+Script done on 2016年03月13日 (週日) 00時02分04秒
